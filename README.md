@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Julfikar Rahaman Asif
 
-🚀 **CSE Student | Flutter App Developer | Full-Stack Enthusiast**  
+🚀 **CSE Student | Flutter App Developer | Full-Stack & ML Enthusiast**  
 📍 Bangladesh  
 
-I’m a passionate Computer Science & Engineering student who loves building **real-world applications**, especially **cross-platform mobile apps using Flutter**.  
+I’m a passionate Computer Science & Engineering student who loves building **real-world applications**, especially **cross-platform mobile apps using Flutter** and **applied Machine Learning projects**.  
 I enjoy learning new technologies, solving problems, and turning ideas into functional software.
 
 ---
@@ -12,6 +12,7 @@ I enjoy learning new technologies, solving problems, and turning ideas into func
 
 - 🎓 Computer Science & Engineering student  
 - 📱 Mobile App Developer (Flutter)  
+- 🤖 Machine Learning enthusiast  
 - 💻 Interested in Full-Stack Development  
 - 🌱 Currently learning **React.js, Next.js, TypeScript & Machine Learning**  
 - 🔍 Curious about how technology can solve everyday problems  
@@ -23,8 +24,8 @@ I enjoy learning new technologies, solving problems, and turning ideas into func
 
 ### 🚀 Programming Languages
 - Dart  
-- C / C++  
 - Python  
+- C / C++  
 - JavaScript  
 
 ### 📱 Mobile & Web Development
@@ -32,6 +33,12 @@ I enjoy learning new technologies, solving problems, and turning ideas into func
 - HTML, CSS  
 - React.js (learning)  
 - Next.js (learning)  
+
+### 🤖 Machine Learning
+- Scikit-learn  
+- TensorFlow / Keras  
+- Image Processing  
+- KNN, CNN (ResNet50)  
 
 ### 🧰 Tools & Frameworks
 - Firebase  
@@ -61,24 +68,21 @@ I enjoy learning new technologies, solving problems, and turning ideas into func
 - Real-time database  
 - Clean architecture (`auth_service`, `database_service`)  
 
-### 📌 Featured Projects
+### 👗 Fashion Recommender System (ML Project)
+- Image-based fashion recommendation system  
+- Feature extraction using **ResNet50**  
+- Similarity search using **KNN**  
+- Interactive demo using a web app  
+- End-to-end ML pipeline (preprocessing → model → recommendation)
 
-🔹 [⏱️ Time Tracking App (Flutter)](https://github.com/Julfikar-Asif)  
-🔹 [📝 Firebase To-Do App](https://github.com/Julfikar-Asif)  
+🔹 **Repository:** [ML Project – Fashion Recommender System](https://github.com/Julfikar-Asif/ML-Project)
 
+---
 
+## 📌 More Projects
 
-*(More projects available in my repositories 👇)*
-
-➡️ **More projects:** [View All Repositories](https://github.com/Julfikar-Asif?tab=repositories)
-
-
-
-
-## 📈 GitHub Stats
-
-![GitHub Stats](./images/github-stats.png)
-
+➡️ **View all my projects:**  
+👉 [GitHub Repositories](https://github.com/Julfikar-Asif?tab=repositories)
 
 ---
 
