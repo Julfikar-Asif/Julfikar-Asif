@@ -77,9 +77,8 @@ I enjoy learning new technologies, solving problems, and turning ideas into func
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Julfikar-Asif&show_icons=true&theme=tokyonight)
+![GitHub Stats](./images/github-stats.png)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Julfikar-Asif&layout=compact&theme=tokyonight)
 
 ---
 
