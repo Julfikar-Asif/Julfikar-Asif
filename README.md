@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/ME.png" width="150" height="150" style="border-radius:50%" alt="Julfikar Rahaman Asif">
-</p>
+
 
 # 👋 Hi, I'm Julfikar Rahaman Asif
 
