@@ -108,9 +108,7 @@ Building intelligent mobile applications and deriving insights from data. Passio
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Julfikar-Asif&theme=tokyonight)](https://git.io/streak-stats)
 
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Julfikar-Asif&theme=tokyonight)
-
-https://github-readme-stats.vercel.app/api?username=Julfikar-Asif&show_icons=true&theme=tokyonight
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Julfikar-Asif&theme=tokyonight)
 ---
 
 ## 🎯 What I'm Currently Working On
@@ -139,7 +137,7 @@ I'm always excited to discuss **Flutter development**, **data insights**, and **
 
 - 📧 **Email:** [julfikarasif@gmail.com](mailto:julfikarasif@gmail.com)
 - 💼 **GitHub:** [github.com/Julfikar-Asif](https://github.com/Julfikar-Asif)
-- 🔗 **LinkedIn:** [LinkedIn Profile](https://linkedin.com/in/julfikar-as-if)
+- 🔗 **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/julfikarasif)
 - 🐦 **Twitter:** [@JulfikarAsif](https://twitter.com)
 
 ---
