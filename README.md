@@ -137,7 +137,7 @@ I'm always excited to discuss **Flutter development**, **data insights**, and **
 
 - 📧 **Email:** [julfikarasif@gmail.com](mailto:julfikarasif@gmail.com)
 - 💼 **GitHub:** [github.com/Julfikar-Asif](https://github.com/Julfikar-Asif)
-- 🔗 **LinkedIn:** [LinkedIn Profile](www.linkedin.com/in/julfikarasif)
+- 🔗 **LinkedIn:** www.linkedin.com/in/julfikarasif
 - 🐦 **Twitter:** [@JulfikarAsif](https://twitter.com)
 
 ---
